@@ -1,0 +1,15 @@
+{
+  "name": "signaldesk",
+  "version": "1.0.0",
+  "description": "SignalDesk — AI-Powered Incident Intelligence Service Desk",
+  "private": true,
+  "scripts": {
+    "dev:backend": "cd backend && npm run dev",
+    "dev:frontend": "cd frontend && npm run dev",
+    "build:backend": "cd backend && npm run build",
+    "build:frontend": "cd frontend && npm run build",
+    "seed": "cd backend && npm run seed",
+    "seed:kb": "cd backend && npm run seed:kb",
+    "install:all": "cd backend && npm install && cd ../frontend && npm install"
+  }
+}
