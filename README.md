@@ -332,3 +332,6 @@ cd backend && npm run seed
 6. **Analytics dashboard** — MTTR, category trends, anomaly frequency
 7. **Notification system** — Email/Slack alerts for P1/P2 and anomalies
 8. **Feedback loop** — Engineer resolution feedback improves RAG quality
+
+
+**Note** : Backend is not working right now in deployed version. Stay tune for full fledge working website properly. 
